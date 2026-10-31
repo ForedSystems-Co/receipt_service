@@ -1,0 +1,11 @@
+[submodule "schemasPg"]
+	path = schemasPg
+	url = https://github.com/Forge-web/schemasPg.git
+	ignore = dirty
+[submodule "webInterface"]
+	path = webInterface
+	url = https://github.com/Forge-web/webInterface.git
+	ignore = dirty
+[submodule "kafkaModule"]
+	path = kafkaModule
+	url = https://github.com/phored-creator/kafkaModule.git
